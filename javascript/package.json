@@ -1,0 +1,15 @@
+{
+  "name": "citrix_authentication_automation",
+  "version": "1.0.0",
+  "description": "NodeJS script to automate authenticating against Citrix with MFA",
+  "main": "citrix_authentication_automation.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "otplib": "^12.0.1",
+      "selenium-webdriver": "^4.4.0"
+  }
+}
