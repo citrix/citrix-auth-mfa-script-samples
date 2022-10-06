@@ -1,0 +1,10 @@
+owner: ericmar
+pipeline:
+  citool: ''
+  releaseBranch: ''
+  sonarqube: null
+productionUse: Internal
+repoType: Other
+reporting:
+  product: Citrix Cloud
+  teamname: Athena
